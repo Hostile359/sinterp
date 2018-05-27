@@ -1,1 +1,1 @@
-My project fot Programming subject
+My project for Programming subject
