@@ -1,0 +1,13 @@
+read n 
+read min
+i = 0
+while i < n do
+  read x
+  if min > x then
+    min = x
+  else
+    write x
+  fi
+  i = i + 1
+done
+write min
